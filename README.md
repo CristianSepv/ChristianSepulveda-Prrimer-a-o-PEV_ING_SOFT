@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/CHRISTIANSEPULVEDAV/acdc374c-49ff-4c22-91ea-a607f4400b05/a6175d5d-0563-459a-866d-18d131b45a69/_apis/work/boardbadge/2c3c1d63-afb0-4404-aee7-db34f019cf9f)](https://dev.azure.com/CHRISTIANSEPULVEDAV/acdc374c-49ff-4c22-91ea-a607f4400b05/_boards/board/t/a6175d5d-0563-459a-866d-18d131b45a69/Microsoft.RequirementCategory)
 # ChristianSepulveda-Prrimer-a-o-PEV_ING_SOFT
